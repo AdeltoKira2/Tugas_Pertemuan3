@@ -1,0 +1,10 @@
+F:\ofing\Tugas32\Tugas32\bin\Debug\Tugas32.exe.config
+F:\ofing\Tugas32\Tugas32\bin\Debug\Tugas32.exe
+F:\ofing\Tugas32\Tugas32\bin\Debug\Tugas32.pdb
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.Properties.Resources.resources
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.csproj.GenerateResource.cache
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.csproj.CoreCompileInputs.cache
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.exe
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.pdb
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.csproj.AssemblyReference.cache
+F:\ofing\Tugas32\Tugas32\obj\Debug\Tugas32.frmTugas32.resources
